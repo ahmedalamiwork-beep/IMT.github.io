@@ -1,0 +1,5 @@
+{
+  "name": "IMT Modules Portal",
+  "description": "An interactive educational portal to visualize the complete tree structure of an engineering/mechatronics course program. Features include dynamic search, expandable/collapsible modules, and a clear, modern user interface.",
+  "requestFramePermissions": []
+}
